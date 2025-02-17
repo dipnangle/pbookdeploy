@@ -1,0 +1,17 @@
+{
+	"welcome": "Welcome to My React App",
+	"description": "This is a multilingual app.",
+	"add_contact": "Add Contact",
+	"name": "Name",
+	"gender": "Gender",
+	"dob": "Date Of Birth",
+	"contactlist": "Contacts List",
+	"personal_network": "Personal Network",
+	"id": "id",
+	"country_code": "+CC",
+	"phone_number": "Phone Number",
+	"email": "Email",
+	"address": "Address",
+	"edit": "Edit",
+	"no_data_available": "! No Data Available in Database"
+}

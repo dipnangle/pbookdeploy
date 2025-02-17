@@ -1,0 +1,16 @@
+{
+	"welcome": "मेरा रिएक्ट ऐप में आपका स्वागत है",
+	"description": "This is a multilingual app.",
+	"add_contact": "उपयोगकर्ता जोड़ें",
+	"name": "नाम",
+	"gender": "लिंग",
+	"dob": "जन्म तिथि",
+	"contactlist": "संपर्क सूची",
+	"personal_network": "व्यक्तिगत नेटवर्क",
+	"id": "पहचान",
+	"country_code": "+CC",
+	"phone_number": "फ़ोन नंबर",
+	"email": "ईमेल",
+	"address": "पता",
+	"no_data_available": "! डेटाबेस में कोई डेटा उपलब्ध नहीं है"
+}

@@ -1,0 +1,16 @@
+{
+	"welcome": "Bienvenue dans mon application React",
+	"description": "Ceci est une application multilingue.",
+	"add_contact": "Ajouter un utilisateur",
+	"name": "Nom",
+	"gender": "Genre",
+	"dob": "Date de naissance",
+	"contactlist": "Liste de contacts",
+	"personal_network": "Réseau personnel",
+	"id": "identifiant",
+	"country_code": "+CC",
+	"phone_number": "Numéro de téléphone",
+	"email": "E-mail",
+	"address": "Adresse",
+	"no_data_available": "! Aucune donnée disponible dans la base de données"
+}
